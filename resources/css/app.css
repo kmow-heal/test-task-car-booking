@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ceil{
+    @apply border border-gray-300 px-4 py-2;
+}
+
+.table{
+    @apply table-auto border border-gray-300;
+}
+
+.car-link{
+    @apply hover:text-slate-400;
+}
