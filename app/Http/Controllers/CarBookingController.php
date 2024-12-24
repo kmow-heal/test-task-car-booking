@@ -23,7 +23,7 @@ class CarBookingController extends Controller
         $rc_cars_models = 'rc_cars_models';
         $rc_cars_models_translations = 'rc_cars_models_translations';
 
-        $timezone = '+2';
+        $timezone = '-2';
 
         $down_hour = 9;
         $up_hour = 21;
